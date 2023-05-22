@@ -28,9 +28,13 @@ namespace ConsoleApp1
 
                 Console.WriteLine("What page number?");
                 string yourPage = Console.ReadLine();
+                int pageNumber = Convert.ToInt32(yourPage);
+
 
                 Console.WriteLine("Do you need help with anything? Please answer “true” or “false.”");
                 string needsHelp = Console.ReadLine();
+                bool helpRequired = Convert.ToBoolean(needsHelp);
+
 
                 Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
                 string specificExperiences = Console.ReadLine();
