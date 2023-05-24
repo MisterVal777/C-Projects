@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\bin\Debug\ConsoleAppMathFunctions.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\bin\Debug\ConsoleAppMathFunctions.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\bin\Debug\ConsoleAppMathFunctions.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\obj\Debug\ConsoleAppMathFunctions.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\obj\Debug\ConsoleAppMathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\obj\Debug\ConsoleAppMathFunctions.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MathAndComparisonOperators\ConsoleAppMathFunctions\ConsoleAppMathFunctions\obj\Debug\ConsoleAppMathFunctions.pdb
