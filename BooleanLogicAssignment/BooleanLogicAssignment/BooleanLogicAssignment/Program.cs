@@ -24,6 +24,7 @@ namespace BooleanLogicAssignment
             int ticketNumber = Convert.ToInt32(ticketCount);
 
             //step 2. Qualify applicant with Boolean
+            Console.WriteLine("Qualified?");
             Console.WriteLine(ageNumber > 15 && hasDui == false && 3 > ticketNumber);
             Console.ReadLine();
         }
