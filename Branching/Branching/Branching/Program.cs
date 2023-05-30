@@ -43,7 +43,7 @@ namespace Branching
                 }
                 if (packageWidth + packageHeight + packageLength < 50)
                 {
-                    Console.WriteLine("Youur estimated total is $" + packageWeight * packageHeight * packageLength * packageWeight / 100);
+                    Console.WriteLine("Your estimated total is $" + packageWeight * packageHeight * packageLength * packageWeight / 100);
                     Console.ReadLine();
                 }
             }
