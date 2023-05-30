@@ -1,0 +1,6 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\WhileAssignment\ConsoleWhileDo\ConsoleWhileDo\bin\Debug\ConsoleWhileDo.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\WhileAssignment\ConsoleWhileDo\ConsoleWhileDo\bin\Debug\ConsoleWhileDo.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\WhileAssignment\ConsoleWhileDo\ConsoleWhileDo\bin\Debug\ConsoleWhileDo.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\WhileAssignment\ConsoleWhileDo\ConsoleWhileDo\obj\Debug\ConsoleWhileDo.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\WhileAssignment\ConsoleWhileDo\ConsoleWhileDo\obj\Debug\ConsoleWhileDo.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\WhileAssignment\ConsoleWhileDo\ConsoleWhileDo\obj\Debug\ConsoleWhileDo.pdb
