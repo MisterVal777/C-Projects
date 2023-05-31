@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\bin\Debug\ConsoleApp6PartAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\bin\Debug\ConsoleApp6PartAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\bin\Debug\ConsoleApp6PartAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\sixPartAssigntment\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.pdb
