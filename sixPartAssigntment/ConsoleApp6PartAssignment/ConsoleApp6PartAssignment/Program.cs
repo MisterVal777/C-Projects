@@ -97,151 +97,60 @@ namespace ConsoleApp6PartAssignment
             string state = Console.ReadLine();
             
             //Part5-2 Create a loop that iterates through the list and then displays the indices of the items matching the user-selected text. Ensure to remove any break statements that may prevent your code from returning multiple matches.
-            for (int f = 0; 0 < myStrings.Count; f++)
             {
-                if (myStrings.Distinct().Count() != myStrings.Count())
+                if (myStrings.Contains(state))
                 {
-                    int count = 0;
-                    bool belowFive = true;
-                    while (belowFive)
-                    Console.WriteLine("Your choice has an index of " + myStrings.IndexOf(state));
-                    
-                    if (count++ >= 5)
+                    for (int f = 0; f < myStrings.Count; f++)
                     {
-                            belowFive = false;
+                        if (state == myStrings[f])
+                        {
+                            Console.WriteLine("Your choice has an index of " + f);
+                        }
                     }
 
+                }
                     //Part5-3 Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list. (You do not need to provide any additional chances for the user to enter text.)
-                    else
-                        Console.WriteLine("Your choice does not exist for todays options.");
-                    break;
+                else
+                {
+                    Console.WriteLine("Your choice does not exist for todays options.");
                 }
                 Console.ReadLine();
 
 
-            }
+                // Part6-----------------------------------------------------------------------------------------------------------------------------------
+                // ----------------------------------------------------------------------------------------------------------------------------------------
+                List<string> myLetters = new List<string>() { "A", "B", "C", "D", "E", "C", "D" };
+                List<string> letter = new List<string>();
+
+                for (int e = 0; e < myLetters.Count; e++)
+                {
+                    for (int a = e + 1; a < myLetters.Count; a++)
+                    {
+                        if (myLetters[a] == myLetters[e])
+                                {
+                                    if (!letter.Contains(myLetters[e]))
+                                        {
+                                            letter.Add(myLetters[e]);
+
+                                        }
+                                }
+                    }
+                }
 
 
-
-
-
-
-                //if (foundAt == -1)
-                //    Console.WriteLine("1");
-
-                //else
-                //    Console.WriteLine("2");
-                //    Console.ReadLine();
-                //{
-                //Console.WriteLine("Found it at index " + d);
-                //break; //exit the loop early
-                //}
-                //else
-                //{
-                //    Console.WriteLine("Didn't find it at index " + d);
-                //}
-                //}
-                //Console.WriteLine("Your choice has an index of " + fruits.IndexOf(choice));
-
-
-                //string choice = Console.ReadLine();
-
-                //    if (choice == fruits[])
-                //        {
-                //            Console.WriteLine(name);
-                //        }
-
-
-
-
-
-                //foreach (int n in name)
-                ////for (int l = 0; l < name.Length; l++)
-                //{
-                //    string namey = name;
-                //    Console.WriteLine(namey );
-                //    Console.ReadLine();
-                //}
-
-
-
-                //foreach (string name in names)
-                //{
-                //    if (name == "")
-                //    {
-                //        names.Add(text);
-                //    }
-                //}
-
-                //int[] testScores = { 98, 99, 85, 70, 82, 34, 91, 90, 94 };
-
-                //for (int i = 0; i < testScores.Length; i++)
-                //{
-                //    if (testScores[i] > 85)
-                //    {
-                //        Console.WriteLine("Passing Test Score: " + testScores[i]);
-                //    }
-                //}
-                //Console.ReadLine();
-
-                //string[] names = { "JEsse", "Erik", "Daniel", "Adam" };
-
-                //for (int j = 0; j < names.Length; j++)
+                foreach (string it in myLetters)
+                {
+                    Console.WriteLine(it + " is unique");
+                }
+                foreach (string item in letter)
+                    
+                {
+                    Console.WriteLine(item + " - is a duplicate");
+                }
                 
 
-
-                //Console.WriteLine(names[j]);
-
-                //if (names[j] == "JEsse")
-                //{
-                //    Console.WriteLine(names[j]);
-                //}
-
-
-            
-            //Console.ReadLine();             
-            //List<int> testScores = new List<int>();
-            //testScores.Add(98);
-            //testScores.Add(99);
-            //testScores.Add(81);
-            //testScores.Add(72);
-            //testScores.Add(70);
-
-            //foreach (int score in testScores)
-            //{
-            //    if (score > 85)
-            //    {
-            //        Console.WriteLine("Passing test score: " + score);
-            //    }
-
-            //}
-            //Console.ReadLine();
-
-            //List<string> names = new List<string>() { "JEsse", "Erik", "Adam", "Daniel" };
-
-            //foreach (string name in names)
-            //{
-            //    //if (name == "JEsse")
-            //    {
-            //        Console.WriteLine(name);
-            //    }
-            //}
-            //Console.ReadLine();
-
-            //List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
-            //List<int> passingScores = new List<int>();
-
-            //foreach (int score in testScores)
-            //{
-            //    if (score > 85)
-            //    {
-            //        passingScores.Add(score);
-            //    }
-            //}
-            //Console.WriteLine(passingScores.Count);
-            //Console.ReadLine();
-
+                Console.ReadLine();
+            }
         }
-    }
-    
+    }   
 }
