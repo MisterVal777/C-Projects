@@ -1,0 +1,6 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\StringsIntegersAssignment\StringsIntegrersAssignment\StringsIntegrersAssignment\bin\Debug\StringsIntegrersAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\StringsIntegersAssignment\StringsIntegrersAssignment\StringsIntegrersAssignment\bin\Debug\StringsIntegrersAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\StringsIntegersAssignment\StringsIntegrersAssignment\StringsIntegrersAssignment\bin\Debug\StringsIntegrersAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\StringsIntegersAssignment\StringsIntegrersAssignment\StringsIntegrersAssignment\obj\Debug\StringsIntegrersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\StringsIntegersAssignment\StringsIntegrersAssignment\StringsIntegrersAssignment\obj\Debug\StringsIntegrersAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\StringsIntegersAssignment\StringsIntegrersAssignment\StringsIntegrersAssignment\obj\Debug\StringsIntegrersAssignment.pdb
