@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MethodsAssignment\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.pdb
