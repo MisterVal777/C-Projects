@@ -6,22 +6,19 @@ using System.Threading.Tasks;
 
 namespace MainMethodAssignment
 {
-    // 1.Create a class. In that class, create three methods, each of which will take one integer parameter in and return an integer. The methods should do some math operation on the received parameter. Put this class in a separate .cs file in the application
+    // 1.Create a class. In that class, create a method that will take in an integer, create a math operation for this integer (addition, subtraction, etc.), then return the answer as an integer.
     public class Math
     {
         public int add(int data)
         {
             return data + 7;
         }
-
-        public int subtract(int data)
+        // 3. Add a second method to the class with the same name that will take in a decimal, create a different math operation for it, then return the answer as an integer.
+        public decimal asDecimal(int data)
         {
-            return data - 4;
+            return (decimal)data;
+            
         }
 
-        public int square(int data, int value)
-        {
-            return data * data;
-        }
     }
 }
