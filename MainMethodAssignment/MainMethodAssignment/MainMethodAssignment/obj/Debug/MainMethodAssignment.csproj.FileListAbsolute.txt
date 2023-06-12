@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MainMethodAssignment\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
