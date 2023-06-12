@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MainMethodAssignment
+namespace CallingMethodsAssignment
 {
 
     class Program
@@ -21,14 +21,14 @@ namespace MainMethodAssignment
             // 3. Call each method in turn, passing the user input to the method. Display the returned integer to the screen.
             var mathObject = new Math();
             var result = mathObject.add(userValue);
-            Console.WriteLine(userValue + " + 7 is " + result);
+            Console.WriteLine(userValue + " + 7 is " + mathObject.add(userValue));
             Console.ReadLine();
-            result = mathObject.subtract(result);
-            Console.WriteLine("subtract 4 and you have " + result);
+            result = mathObject.subtract(userValue);
+            Console.WriteLine(userValue + " minus 4 and you have " + mathObject.subtract(userValue));
             Console.ReadLine();
-            result = mathObject.square(result, result);
+            result = mathObject.square(userValue);
 
-            Console.WriteLine("Square this number and you get " + result + ", thanks for playing!");
+            Console.WriteLine(userValue + " Squared and you get " + mathObject.square(userValue) + ", thanks for playing!");
             Console.ReadLine();
 
         }

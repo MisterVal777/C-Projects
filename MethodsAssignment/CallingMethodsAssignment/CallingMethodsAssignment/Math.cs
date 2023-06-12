@@ -19,7 +19,7 @@ namespace CallingMethodsAssignment
             return data - 4;
         }
 
-        public int square(int data, int value)
+        public int square(int data)
         {
             return data * data;
         }
