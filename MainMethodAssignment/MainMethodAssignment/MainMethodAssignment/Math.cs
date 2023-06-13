@@ -14,11 +14,19 @@ namespace MainMethodAssignment
             return data + 7;
         }
         // 3. Add a second method to the class with the same name that will take in a decimal, create a different math operation for it, then return the answer as an integer.
-        public decimal asDecimal(int data)
+        public int add(decimal data)
         {
-            return (decimal)data;
-            
+            return (int)data + 4;
         }
 
+        // 5. Add a third method to the class, with the same name, that will take in a string, convert it to an integer if possible, do a different math operation to it, then return the answer   as an integer.
+        public int add(string data)
+        {
+            
+            return Convert.ToInt32(data) + 2;
+               
+        }
+    
+    
     }
 }
