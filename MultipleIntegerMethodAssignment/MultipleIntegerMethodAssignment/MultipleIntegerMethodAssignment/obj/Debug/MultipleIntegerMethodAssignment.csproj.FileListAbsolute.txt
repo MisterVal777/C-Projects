@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\bin\Debug\MultipleIntegerMethodAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\bin\Debug\MultipleIntegerMethodAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\bin\Debug\MultipleIntegerMethodAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\obj\Debug\MultipleIntegerMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\obj\Debug\MultipleIntegerMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\obj\Debug\MultipleIntegerMethodAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\MultipleIntegerMethodAssignment\obj\Debug\MultipleIntegerMethodAssignment.pdb
