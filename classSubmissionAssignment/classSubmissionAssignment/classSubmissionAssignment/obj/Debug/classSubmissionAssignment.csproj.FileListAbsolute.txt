@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\bin\Debug\classSubmissionAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\bin\Debug\classSubmissionAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\bin\Debug\classSubmissionAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\classSubmissionAssignment\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.pdb
