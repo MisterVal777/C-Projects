@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\bin\Debug\methodsAndObjectsAssignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\bin\Debug\methodsAndObjectsAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\bin\Debug\methodsAndObjectsAssignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\obj\Debug\methodsAndObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\obj\Debug\methodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\obj\Debug\methodsAndObjectsAssignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\methodsAndObjectsAssignment\methodsAndObjectsAssignment\methodsAndObjectsAssignment\obj\Debug\methodsAndObjectsAssignment.pdb
