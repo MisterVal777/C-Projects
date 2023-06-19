@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ParametersAssignment\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.pdb
