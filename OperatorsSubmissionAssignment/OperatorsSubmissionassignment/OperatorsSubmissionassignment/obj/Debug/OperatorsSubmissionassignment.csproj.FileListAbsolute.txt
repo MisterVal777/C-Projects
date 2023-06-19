@@ -1,0 +1,7 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\bin\Debug\OperatorsSubmissionassignment.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\bin\Debug\OperatorsSubmissionassignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\bin\Debug\OperatorsSubmissionassignment.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\obj\Debug\OperatorsSubmissionassignment.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\obj\Debug\OperatorsSubmissionassignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\obj\Debug\OperatorsSubmissionassignment.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\OperatorsSubmissionAssignment\OperatorsSubmissionassignment\OperatorsSubmissionassignment\obj\Debug\OperatorsSubmissionassignment.pdb
