@@ -19,10 +19,16 @@ namespace OperatorsSubmissionassignment
         public static bool operator == (Employee employee1, Employee employee2)
         {
             return employee1.Id == employee2.Id;
+            bool b = true;
+            string em = b.ToString();
+            Console.WriteLine(em);
         }
         public static bool operator !=(Employee employee1, Employee employee2)
         {
             return employee1.Id != employee2.Id;
+            bool c = true;
+            string emp = c.ToString();
+            Console.WriteLine(emp);
 
         }
     }

@@ -20,9 +20,14 @@ namespace OperatorsSubmissionassignment
             employee2.LastName = "Omara";
             employee1.Id = 1802;
             employee2.Id = 1702;
-            Console.WriteLine("Does employee1 and employee2 have the same firstnames? " + employee1.FirstName == employee2.FirstName);
-            Console.WriteLine("Does employee1 and employee2 have same lastnames? " + employee1.LastName == employee2.LastName);
-            Console.WriteLine("Are employee1 and employee2 the same employee?" + employee1 == employee2);
+
+            
+
+            
+
+            Console.WriteLine(employee1.FirstName == employee2.FirstName);
+            Console.WriteLine(employee1.LastName == employee2.LastName);
+            Console.WriteLine(employee1 == employee2);
             Console.ReadLine();
         }        
     }
