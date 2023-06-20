@@ -29,9 +29,9 @@ namespace ParsingEnums
                 Console.WriteLine("Please enter the current day of the week into the Console.");
                 string currentDay = Console.ReadLine();
 
-                var Day = System.Enum.Parse(typeof(WeekDays), currentDay);
+                var Day = Enum.Parse(typeof(WeekDays), currentDay);
                 //WeekDays parsedEnumValue = (WeekDays)System.Enum.Parse(typeof(WeekDays), currentDay);
-                Console.WriteLine( (WeekDays)System.Enum.Parse(typeof(WeekDays), currentDay));
+                Console.WriteLine((WeekDays)Enum.Parse(typeof(WeekDays), currentDay));
 
 
 
