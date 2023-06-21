@@ -8,7 +8,7 @@ namespace ParsingEnums
 {
     public class WeekDays
     {
-        public Days Day { get; set; }
+
         // 1. Create an enum for the days of the week.
         public enum Days
         {
