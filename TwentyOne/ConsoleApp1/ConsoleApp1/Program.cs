@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using Casino;
+using Casino.TwentyOne;
 
-
-namespace ConsoleApp1
+namespace TwentyOne
 {
     class Program
     {
@@ -20,7 +20,7 @@ namespace ConsoleApp1
             //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
             //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 64, 22);
             //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
-            
+
 
             //string text = "Here is some text";
             //File.WriteAllText("C:\\Users\\Miste\\OneDrive\\Desktop\\log.txt", text);
@@ -28,7 +28,9 @@ namespace ConsoleApp1
             //string text = File.ReadAllText("C:\\Users\\Miste\\OneDrive\\Desktop\\log.txt", text);
 
 
+            //const string casinoName = "Grand hotel casino";
 
+            Guid identifier = Guid.NewGuid();
 
 
 
@@ -41,6 +43,11 @@ namespace ConsoleApp1
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

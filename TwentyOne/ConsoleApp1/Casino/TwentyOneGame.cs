@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Casino.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -152,7 +153,7 @@ namespace Casino.TwentyOne
                 }
                 else
                 {
-                    Console.WriteLine("Dealer wins {0}!", Bets.[player]);
+                    Console.WriteLine("Dealer wins {0}!", Bets[player]);
                     Dealer.Balance += Bets[player];                   
                 }
                 Console.WriteLine("Play again?");

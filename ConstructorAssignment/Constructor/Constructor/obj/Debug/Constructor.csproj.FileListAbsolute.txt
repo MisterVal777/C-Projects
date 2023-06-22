@@ -1,0 +1,2 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ConstructorAssignment\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\ConstructorAssignment\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache

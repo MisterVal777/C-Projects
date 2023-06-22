@@ -1,0 +1,9 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\bin\Debug\Casino.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

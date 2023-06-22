@@ -1,2 +1,0 @@
-C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
-C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\TwentyOne\ConsoleApp1\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
