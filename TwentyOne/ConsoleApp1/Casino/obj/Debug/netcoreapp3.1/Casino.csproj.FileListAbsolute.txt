@@ -1,4 +1,0 @@
-C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Tutorials\twentyOne\ConsoleApp1\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
-C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Tutorials\twentyOne\ConsoleApp1\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
-C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Tutorials\twentyOne\ConsoleApp1\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
-C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Tutorials\twentyOne\ConsoleApp1\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
