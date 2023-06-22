@@ -16,23 +16,22 @@ namespace Constructor
 
             //1.Create a const variable
             const string myFirstName = "Ryan";
-            Console.WriteLine("Hello, {0}.", myIdentity);
+         
 
-            //2.Create a variable using the keyword "var".
-            var identity = new Identity();
-            identity.id = 98898;
-            identity.name = "Jennifer";
-            //3.Chain two constructors together.
-            Console.WriteLine(identity.id);
-            Console.WriteLine(identity.name);
+            ////2.Create a variable using the keyword "var".
+     
+
+
+            Console.WriteLine("First construct!");
+            var a = new NewEmployee();
+            Console.WriteLine("Second construct!");
+            NewEmployee b = new NewEmployee("Daniel");
+            Console.WriteLine("Third construct!");
+            NewEmployee c = new NewEmployee("Daniel", "Szabo");
+            Console.WriteLine(myFirstName);
             Console.ReadLine();
         }
 
-
-
-
-        //const string casinoName = "Grand hotel casino";
-
-        
+  
     }
 }
