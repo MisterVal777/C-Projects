@@ -1,0 +1,6 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\obj\Debug\DateTime.pdb

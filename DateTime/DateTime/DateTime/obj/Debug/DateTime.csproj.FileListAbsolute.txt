@@ -1,0 +1,2 @@
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\Miste\OneDrive\Documents\GitHub\C#\C#Projects\DateTime\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
