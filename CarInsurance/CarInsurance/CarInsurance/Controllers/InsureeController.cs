@@ -66,11 +66,31 @@ namespace CarInsurance.Controllers
             return View(insuree);
         }
 
+        //Add an Admin View for a site administrator to the Insuree Views. This page must show all quotes issued, along with the user's first name, last name, and email address.
+        public ActionResult Admin();
+        {
+            using (InsuranceEntities db = new InsuranceEntities())
+            {
+                var insurees = db.Insuree;
+                var insureeVms = new List<InsureeVms>();
+                foreach (var insure in Insuree) 
+                {
+                    var insureeVm = new InsureeVm();
+                    insureeVm.FirstName = insure.FirstName;
+                    insureeVm.LastName = insure.LastName;
+                    insureeVm.EmailAddress = insure.EmailAddress;
+                    insureeVm.Add(InsureeVm);
+                }
+                return View(insureeVm);
+        }
+
+
+
         // GET: Insuree/Create
         public ActionResult Create()
-        {
-            return View();
-        }
+                {
+                    return View();
+                }
 
         // POST: Insuree/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
@@ -139,8 +159,8 @@ namespace CarInsurance.Controllers
 
                 {
                     db.Insurees.Add(insuree);
-                db.SaveChanges();
-                return RedirectToAction("Index", insuree);
+                    db.SaveChanges();
+                    return RedirectToAction("Index", insuree);
             }
 
             return View(insuree);
