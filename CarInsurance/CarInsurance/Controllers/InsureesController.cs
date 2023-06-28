@@ -116,13 +116,16 @@ namespace CarInsurance.Controllers
                 }
                 //J. If the user has ever had a DUI, add 25% to the total.
                 if (insuree.DUI == true)
+                    
                 {
-                    insuree.Quote = insuree.Quote + 25m;
+                    Decimal dec = .25m;
+                    Decimal res = Decimal.Multiply(insuree.Quote, dec);
+                    insuree.Quote = insuree.Quote + res;
                 }
                 //K. If it's full coverage, add 50% to the total.
                 if (insuree.CoverageType == true)
                 {
-                    insuree.Quote = insuree.Quote + 50m;
+                    insuree.Quote = insuree.Quote + (insuree.Quote * .5m);
                 }
                     db.Insurees.Add(insuree);
                     db.SaveChanges();
